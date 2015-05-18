@@ -1,0 +1,38 @@
+* {
+  font-family: Lato;
+}
+.fa.fa-play, .fa.fa-stop {
+  font-size: 25px;
+}
+
+.container {
+  width: 68%;
+  margin: 0 auto;
+}
+
+.container header{
+  width: 100%;
+  background-color: black;
+  color: white;
+  height: 60px;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 60px;  
+  border-radius: 5px;
+  margin-bottom: 15px;
+}
+header h2 {
+  margin: 0;
+}
+body {
+  margin: 0;
+  background-color: rgba(247,247,247,1);
+}
+.container p {
+  display: inline-block;
+  font-size: 25px;
+  font-weight: bold;
+  margin-left: 15px;
+  margin-top: 5px;
+  margin-bottom: 7px;
+}
